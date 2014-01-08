@@ -12,7 +12,7 @@ var _getData = {
     db: null
   },
   arduino: {
-    port: "/dev/ttyACM0",
+    port: "/dev/ttyACM1",
     baudrate: 9600
   }
 };
